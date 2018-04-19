@@ -1,0 +1,46 @@
+<!doctype HTML>
+<html>
+	<head>
+		<style>
+			a{
+				color:black;
+				text-decoration: none;
+			}
+
+			li{
+				display: inline-block;
+			}
+			body{
+				background:#ddd;
+				font-family:arial,sans-serif;
+			}
+		</style>
+
+	</head>
+	<body>
+		<nav>
+			<ul>  <!--can put <ol> which come up as number-->
+				<li><a href="#">about us</a></li> <!--try change"#" into "google.com"-->
+				<li><a href="#">portfolio</a></li>
+			</ul>
+		</nav>
+		<h2>
+			Your name
+		</h2>
+		<div>
+			<img src="#">
+			<h3>
+				I enjoy lift as a developer
+			</h3>
+			<p>  <!---div can be used instead of p, but p is the greatest-->
+			loren ipsum dasgdgsdfsdfasdfasdfsadf
+			</p>
+			<ul>
+				<li><a href="#">facebook</a></li> 
+				<li><a href="#">twitter</a></li>
+				<li><a href="#">instagram</a></li> 
+				<li><a href="#">linkedin</a></li>
+			</ul>
+		</div>
+	</body>
+</html>
