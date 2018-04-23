@@ -1,0 +1,42 @@
+a{
+				color:#ff3399;
+				text-decoration: none;
+			}
+
+			nav ul li a{
+				color:#8cff66;
+				text-transform:capitalize;
+				font-size:20px;
+			}
+
+			li{
+				display: inline-block;
+			}
+
+			h2{
+				font-size:40px;
+				color:white;
+				margin:1cm 0.5cm 0.5cm 1cm;
+			}
+
+			h3{ 
+				color: white;
+				text-transform:uppercase;
+				letter-spacing: 2px;
+				margin:0.3cm 0.5cm 0.5cm 1cm;
+			}
+
+			body{
+				background:black;
+				font-family:Century Gothic,sans-serif;
+			   padding:50px;}
+
+			 p{
+			 	color:white;
+			 }
+
+			 div{
+			 	margin: 20px 0;
+			 	border-top:1px solid white;
+			 	border-bottom:1px solid white;
+			 }
