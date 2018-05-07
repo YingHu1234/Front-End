@@ -1,0 +1,81 @@
+body{
+background-color:#f0efef;
+font-family: 'Open Sans', Helvetica, sans-serif;
+
+}
+
+header{
+background-color:#033048;
+weight:50px;
+height:60px;
+}
+
+header h2{
+font-family:"serif";
+font-size: 25px;
+color: white;
+padding:0px 50px;
+}
+
+nav ul li a{
+float:right;
+color:#f9e42e;
+display: inline;
+margin:3px;
+padding:
+}
+
+#main_content .container{
+display:inline-block;
+width:700px;
+padding:0 80px;
+}
+
+
+
+.relaxr_title{
+font-size:40px;
+font-family:'Open Sans',Helvetica, sans-serif ;
+padding:30px 0;
+}
+
+.artical{
+font-size:24px;
+font-family:"light",Helvetica,sans-serif ;
+padding: 30px 0;
+
+}
+
+.relaxr_left a{
+margin-left:600px;
+font-weight:light;
+width:240px;
+
+}
+
+
+
+
+.relaxr_right{
+
+vertical-align:top;
+display:inline;
+margin:0 80%px;
+width:200px;
+
+}
+
+
+
+
+
+.sign up a{
+}
+
+.contact h3{
+
+}
+
+.contact ul li a{
+}
+
