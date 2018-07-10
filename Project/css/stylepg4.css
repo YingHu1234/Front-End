@@ -1,0 +1,49 @@
+body{
+  font-family: "Open Sans",Helvetica,sans-serif;
+}
+
+.outline nav ul{
+  overflow:auto;
+ 
+}
+
+
+.outline nav{
+ 
+  margin-left:350px;
+
+  
+  
+}
+
+
+.outline nav ul li a {
+  text-decoration: none;
+  color:black;
+ 
+}
+
+.outline nav ul li{
+  padding:10px 0;
+  float:left;
+  width:15%;
+ text-align: center;
+  list-style-type:none;
+border-bottom: 1px solid black;
+margin-left:auto;
+margin-right:auto;
+
+  }
+
+
+.mySlides {
+  display:none;
+  margin:auto;
+}
+
+
+.show{
+  font-size:30px;
+  margin-left:850px;
+  padding:10px;
+}
